@@ -2,6 +2,7 @@
 - 👀 I’m interested in Machine Learning, Data Analytics, Automation and OSINT.
 - 💻 I know C++, Python and Javascript.
 - 🌱 I’m currently learning React and Solidity.
+- 🤖 During my freetime I code Telegram Bots.
 - 📫 How to reach me: Twitter: @GeBakaev
 
 <!---
