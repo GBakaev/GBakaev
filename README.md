@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GBakaev
 - 👀 I’m interested in Machine Learning, Data Analytics, Automation and OSINT.
 - 💻 I know C++, Python, React and Javascript.
-- 🌱 I’m currently UI/UX Design and Webflow.
+- 🌱 I’m currently Learning UI/UX Design and Webflow.
 - 🤖 During my freetime I code Telegram Bots.
 - 📫 How to reach me: Twitter: @GeBakaev
 
